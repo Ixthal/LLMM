@@ -1,0 +1,13 @@
+ititulos -> <hn></hn>: para jerarquia en los titulos
+<br></br> -> generar linea de espacio en blanco
+<hr></hr> -> como br pero con una linea
+img src="..." -> definir una imagen -> esta autocontenida y ni hace falta cerrarla (NO </img>)
+    alt="..." -> texto que se muestra en caso de que no se muestre la imagen (para el SEO)
+    title="..." -> texto que sale al poner el cursor encima de la imagen
+<a href="texto.html"> Nombre del enlace </a>
+<a href="texto.pdf" download> Nombre del enlace </a> [para descargar el archivo pdf]
+./ -> para ir al archivo de la carpeta de encima
+
+colspan -> para seleccionar n huecos vacios en una tabla (la de arriba ocupa 3 huecos que se corresponde con 3 atributos)
+Nombr 
+A A A

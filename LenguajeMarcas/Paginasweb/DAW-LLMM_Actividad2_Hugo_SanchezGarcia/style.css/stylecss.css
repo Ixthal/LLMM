@@ -1,0 +1,26 @@
+body {
+    background-color: mintcream;
+  }
+  
+h1 {
+color: black;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.icons {
+    color: black;
+        display: flex;
+        justify-content: space-between;
+    
+}
+
+.prueba {
+    color: black;
+    font-size: large;
+    max-width: fit-content;
+    align-items: center;
+}
+
+.spacer {
+    padding-left: 15px;
+}
